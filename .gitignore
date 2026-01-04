@@ -1,0 +1,6 @@
+jupyter UP.bat
+mandelbrot_5k.npz
+mandelbrot_autoencoder_v1.keras
+mandelbrot_decoder_v1.keras
+mandelbrot_encoder_v1.keras
+./morphing_animation.gif

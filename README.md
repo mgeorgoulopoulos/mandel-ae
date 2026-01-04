@@ -12,4 +12,6 @@ Smooth morphing animations can be produced by linearly interpolating in the late
 
 ![](img/morph.png)
 
+![](img/morphing_animation.gif)
+
 
