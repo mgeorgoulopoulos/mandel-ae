@@ -4,9 +4,13 @@ Brot-AE is a deep convolutional autoencoder trained on images of the Mandelbrot 
 
 ![](img/pipeline.png)
 
+# Random fractals
+
 Running just the decoder part on random 32D vectors yields some fractal-esque synthetic images:
 
 ![](img/synthetic.png)
+
+# Morphing
 
 Smooth morphing animations can be produced by linearly interpolating in the latent space:
 
