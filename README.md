@@ -1,6 +1,6 @@
-# Brot-AE: Neural Fractal Compression
+# Mandel-AE: Neural Fractal Compression
 
-Brot-AE is a deep convolutional autoencoder trained on images of the Mandelbrot set. 128x128 images are compressed to a 32-dimensional vector and decompressed back to 128x128 minimizing loss. To preserve some contrast, the custom loss function compares Sobel edge-detected versions of the input and output images.
+Mandel-AE is a deep convolutional autoencoder trained on images of the Mandelbrot set. 128x128 images are compressed to a 32-dimensional vector and decompressed back to 128x128 minimizing loss. To preserve some contrast, the custom loss function compares Sobel edge-detected versions of the input and output images.
 
 ![](img/pipeline.png)
 
